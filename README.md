@@ -2,6 +2,10 @@
 
 We interested on data mining on twitter while using hashtags(#). Some of the hashtags included but not limited to (Bible, Jesus, Christianity etc.) 
 
+Some of our findings can be seen from the below picture. 
+
+![alt text](https://preview.ibb.co/m12qjw/jda_twitter.png)
+
 
 ## Getting Started
 
